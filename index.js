@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();//Respond with "hello world" for requests that hit our root "/"
 app.get('/', function (req, res) {
 <<<<<<< HEAD
- res.send('Ram Ram');
+ res.send('Ram Ram Mandali');
 =======
  res.send('Welcome to Fortune Cloud Tchnologies!!!!');
 >>>>>>> 3e0f59702d0a335fe1b2e12dfd792974e32b3df8
